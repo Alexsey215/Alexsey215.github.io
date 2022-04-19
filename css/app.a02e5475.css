@@ -1,0 +1,1 @@
+.fade-enter-active,.fade-leave-active{transition:opacity 1s}.fade-enter,.fade-leave-to{opacity:0}.wrapper{position:absolute;display:flex;flex-direction:column;top:-65%;left:30%}.chart-wrap{max-width:450px;max-height:450px}.chart-wrap-btn{display:block;position:relative;border:1px solid #fff;margin:0 auto}
